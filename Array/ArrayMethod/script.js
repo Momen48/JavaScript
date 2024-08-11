@@ -7,7 +7,7 @@ let x;
 
 x=arr.includes(12);
 x=arr.indexOf(3);
-x= arr.slice(1);
+x= arr.slice(1); //remove certain index and show later indexes 
 
 console.log(arr);
-console.log(x);
+console.log(x); 1
